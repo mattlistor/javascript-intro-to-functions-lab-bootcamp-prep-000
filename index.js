@@ -26,4 +26,4 @@ function sayHiToGrandma(string) {
   }
 }
 
-console.log(sayHiToGrandma("hi grandma"))
+console.log(sayHiToGrandma("I love you, Grandma"))
